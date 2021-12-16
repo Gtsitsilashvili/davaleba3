@@ -8,6 +8,9 @@ body{
     margin-left: 20px;
     margin-top: 20px;
 }
+.header {
+    font-family:'BPG Nino Mtavruli Bold';
+}
 nav{
     font-size: 22px;
     line-height: 30px;
@@ -39,6 +42,7 @@ nav{
 .info{
     color: #3D58A6 ;
     font-size: 20px;
+    font-family:'BPG Nino Mtavruli Bold';
 }
 .section1 {
     margin: 30px;
@@ -56,16 +60,22 @@ nav{
     margin-top: 122px;
     margin-bottom: 250px;
 }
+.li {
+    font-family:'BPG Ingiri';
+}
 .art {
    line-height: 20px;
+   font-family:'BPG Ingiri';
 }
 .month{
   font-size: 22px;
   color: #3D58A6 ;
   padding-top: 20px;
+  font-family:'BPG Nino Mtavruli';
 }
 .title {
     font-size: 20px;
+    font-family:'BPG Nino Mtavruli';
 }
 .box {
     height: 56px;
